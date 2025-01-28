@@ -11,8 +11,7 @@ Gist
 
 	거리에서		
 	엉큰녀		
-	아가씨		
-	Break up		
+	아가씨			
 	너무해		
 	방에 혼자 있을때		
 	나쁜X		
@@ -38,11 +37,7 @@ Kid Wine
 PATEKO	
 
     Rainy day
-    또 한번의 밤을 보내며		
-	보고 싶어질 때면		
-	삼성동		
-	의류수거함		
-	신기루	
+    의류수거함
 
 Jayci yucca
 
