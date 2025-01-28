@@ -37,7 +37,6 @@ Kid Wine
 PATEKO	
 
     Rainy day
-    의류수거함
 
 Jayci yucca
 
