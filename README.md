@@ -43,7 +43,7 @@ Jayci yucca
 
 Skinny brown
 
-	Fix yiu(1393)		
+	Fix you(1393)		
 	If i die		
 	Sing alone		
 	SOS		
