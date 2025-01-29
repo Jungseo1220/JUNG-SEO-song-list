@@ -2,7 +2,6 @@
 
 Gist
 
-    좋았던 기억만
 	인생네컷
 	Black swan				
 	FWB
