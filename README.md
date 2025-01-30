@@ -2,7 +2,6 @@
 
 Gist
 
-	인생네컷
 	Black swan				
 	FWB
 
