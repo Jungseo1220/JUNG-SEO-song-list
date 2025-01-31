@@ -110,7 +110,7 @@ MELOH
 
 Lobonabeat!
 
-    420flw
+    420flow
     S2u
     생일
 
