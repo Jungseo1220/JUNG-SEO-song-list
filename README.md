@@ -85,7 +85,8 @@ TOIL
 	꽃		
 	비틀비틀		
 	양아치		
-	바보		
+	바보
+       Fake rock star
     	
 양홍원
 
