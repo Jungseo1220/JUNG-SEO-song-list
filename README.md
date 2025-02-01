@@ -60,7 +60,7 @@ Skinny brown
 	It's you		
 	버킷리스트		
 	너의 곁에 숨을 쉬고 있었어
-        멀어지는 너
+    멀어지는 너
 
 애쉬아일랜드
 
@@ -88,7 +88,7 @@ TOIL
 	비틀비틀		
 	양아치		
 	바보
-       Fake rock star
+    Fake rock star
     	
 양홍원
 
