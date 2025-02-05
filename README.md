@@ -65,7 +65,6 @@ Skinny brown
 애쉬아일랜드
 
 	Beautiful		
-	작별인사
 
 TOIL
 
