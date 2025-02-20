@@ -35,6 +35,7 @@ Kid Wine
 PATEKO	
 
     Rainy day
+    Pray on sunday
 
 Jayci yucca
 
