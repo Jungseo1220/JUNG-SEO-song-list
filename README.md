@@ -86,7 +86,6 @@ TOIL
 
 노엘
 
-    너
 	Ride or die		
 	내가 사라진다면		
 	어른아이		
