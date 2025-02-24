@@ -4,7 +4,6 @@ Gist
 
 	Black swan				
 	FWB
-    나만큼만
 
 릴러말즈
 
@@ -137,6 +136,7 @@ Lobonabeat!
 Way Ched
 
     나쁜생각
+    나만큼만
     
 
 
