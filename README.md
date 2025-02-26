@@ -39,6 +39,8 @@ Kid Wine
 
 PATEKO	
 
+    마지막이잖아요
+    작은날
     Rainy day
     Pray on sunday
 
