@@ -146,6 +146,10 @@ TOIL
 	양아치		
 	바보
     Fake rock star
+    영원히
+    태어나
+    
+    
     	
 양홍원
 
@@ -204,7 +208,8 @@ Jhunnit
 
 데이식스
 
-    해피
+    Happy
+    
     
     
 
