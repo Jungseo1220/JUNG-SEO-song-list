@@ -39,7 +39,8 @@ Kid Wine
     바람에
 	그럼에도
     삼성동
-    하루종일	
+    하루종일
+    여전히 너
 	반복 
     나를 잊었나요
     UNFOLLOW
@@ -62,6 +63,8 @@ Kid Wine
     모두 잊은것 처럼, 아무 일 없던 것처럼
     말야
     중간과 중간 사이
+    진심
+    너 떠난 후에
     
 
 PATEKO	
@@ -70,12 +73,21 @@ PATEKO
     작은날
     Rainy day
     Pray on sunday
+    이리온
+    전하지 못한 그 말
+    넌 나의 빛
+    
 
 Jayci yucca
 
 	She's mine		
 	LAST GIRL		
 	이겨내
+        Ride
+	Internet love
+        Ride
+	
+ 
 
 Skinny brown
 
@@ -99,6 +111,9 @@ Skinny brown
 	버킷리스트		
 	너의 곁에 숨을 쉬고 있었어
     멀어지는 너
+    RING RING RING
+    I DON'T KNOW
+    RIGHT NOW
 
 애쉬아일랜드
 
@@ -108,11 +123,17 @@ TOIL
 
 	봄
     시한부
+    Country life
+    
 	
 제네더질라
 
 	요즘 같은 날		
 	ITX	
+        Way too bad
+	적자생존
+ 
+	
 
 노엘
 
@@ -145,13 +166,16 @@ TOIL
 
 MELOH
 
-	Droppa		
+	Droppa	
+        Play with me
+	
 
 Lobonabeat!
 
     420flow
     S2u
     생일
+    River gang
 
 비와이
 
@@ -177,6 +201,11 @@ Jhunnit
  도리
 
     밤
+
+데이식스
+
+    해피
+    
     
 
         
