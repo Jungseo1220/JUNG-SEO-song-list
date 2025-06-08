@@ -1,10 +1,12 @@
-# JUNG-SEO-song-list
+# 반타 노래책
 
 Gist
 
 	Black swan				
 	FWB
     인생네컷
+    Tonight
+    다시 만난 날
 
 릴러말즈
 
@@ -18,6 +20,9 @@ Gist
 	일어나보니		
 	불편해		
 	불평불만
+        DONE
+	엉덩이가 큰 그녀
+        GONE
     
 Kid Wine
 
@@ -35,7 +40,29 @@ Kid Wine
 	그럼에도
     삼성동
     하루종일	
-	반복
+	반복 
+    나를 잊었나요
+    UNFOLLOW
+    이럴 거면 우리
+    사랑은 작은 빗방울 처럼
+    바보처럼
+    너를 보낸다
+    또 한번의 밤을 보내며
+    보고 싶어질 때면
+    진심
+    이루어지지 않는 STORY
+    전해줘요
+    좋아
+    잠깐 알았던 사이
+    사랑니
+    줄게
+    Dive
+    심술
+    날 잊으면 돼요
+    모두 잊은것 처럼, 아무 일 없던 것처럼
+    말야
+    중간과 중간 사이
+    
 
 PATEKO	
 
@@ -138,7 +165,18 @@ Way Ched
 
     나쁜생각
     나만큼만
+    욕심
     
+Jhunnit
+    
+    Toned body
+    Lasting girl
+    Selfie
+    Summer angel
 
+ 도리
+
+    밤
+    
 
         
