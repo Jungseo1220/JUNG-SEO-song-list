@@ -119,7 +119,6 @@ Skinny brown
 TOIL
 
 	봄
-    시한부
     Country life
     
 	
