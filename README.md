@@ -1,12 +1,9 @@
-# 반타 노래책
+# 서준 노래책
 
 Gist
 
 	Black swan				
-	FWB
-    인생네컷
     Tonight
-    다시 만난 날
 
 릴러말즈
 
@@ -22,6 +19,7 @@ Gist
         DONE
 	엉덩이가 큰 그녀
         GONE
+		가면무도회
     
 Kid Wine
 
@@ -63,6 +61,8 @@ Kid Wine
     진심
     너 떠난 후에
     그랬구나
+	친구
+	사랑이겠지
     
 
 PATEKO	
@@ -71,8 +71,6 @@ PATEKO
     작은날
     Rainy day
     Pray on sunday
-    이리온
-    전하지 못한 그 말
     넌 나의 빛
     
 
@@ -84,6 +82,15 @@ Jayci yucca
         Ride
 	Internet love
         Ride
+		옥에 티
+		인연이 아니었나봐
+		Sunday to Wednesday
+		DOOR
+		조약돌
+		널 사랑하는 이유 하나
+		멍
+		리본
+		심호흡
 	
  
 
@@ -159,8 +166,7 @@ TOIL
     
 
 비오
-
-	쉬어		
+	
 	Summer
     Criminal
 
@@ -176,6 +182,7 @@ Lobonabeat!
     S2u
     생일
     River gang
+	걸음마
 
 비와이
 
@@ -201,10 +208,11 @@ Jhunnit
  도리
 
     밤
+	
+DIMO REX(방예담)
+비록
 
-데이식스
 
-    Happy
     
     
     
