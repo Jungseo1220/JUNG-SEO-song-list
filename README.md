@@ -95,7 +95,7 @@ Jayci yucca
 	멍
 	리본
 	심호흡
-	
+	네 옆에 있어
  
 
 Skinny brown
@@ -209,6 +209,7 @@ Jhunnit
     Selfie
     Summer angel
 	eye dance
+	CUFFING SEASON
 
  도리
 
@@ -226,6 +227,10 @@ DIMO REX (방예담)
 	MISS ME
 	T.T.T
 	ON THE TABLE
+
+아우릴고트
+
+	이랬다 저랬다
 	
 
 
