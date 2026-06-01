@@ -63,6 +63,11 @@ Kid Wine
     그랬구나
 	친구
 	사랑이겠지
+	눈물방울
+	않았음해
+	dontsaygoodbye
+	그대 사랑 안에
+	Jo Malone
     
 
 PATEKO	
@@ -203,13 +208,25 @@ Jhunnit
     Lasting girl
     Selfie
     Summer angel
+	eye dance
 
  도리
 
     밤
 	
-DIMO REX(방예담)
-비록
+DIMO REX (방예담)
+	
+	비록
+	SLIDE
+	HURT SO BAD
+	SAY MY NAME
+	KICK IT
+	LOSE IT
+	STAY THE NIGHT
+	MISS ME
+	T.T.T
+	ON THE TABLE
+	
 
 
     
