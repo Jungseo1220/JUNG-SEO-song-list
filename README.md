@@ -16,10 +16,10 @@ Gist
 	일어나보니		
 	불편해		
 	불평불만
-        DONE
+    DONE
 	엉덩이가 큰 그녀
-        GONE
-		가면무도회
+    GONE
+	가면무도회
     
 Kid Wine
 
@@ -79,18 +79,17 @@ Jayci yucca
 	She's mine		
 	LAST GIRL		
 	이겨내
-        Ride
-	Internet love
-        Ride
-		옥에 티
-		인연이 아니었나봐
-		Sunday to Wednesday
-		DOOR
-		조약돌
-		널 사랑하는 이유 하나
-		멍
-		리본
-		심호흡
+    Ride
+	Internet loVE
+	옥에 티
+	인연이 아니었나봐
+	Sunday to Wednesday
+	DOOR
+	조약돌
+	널 사랑하는 이유 하나
+	멍
+	리본
+	심호흡
 	
  
 
@@ -133,7 +132,7 @@ TOIL
 
 	요즘 같은 날		
 	ITX	
-        Way too bad
+    Way too bad
 	적자생존
  
 	
@@ -173,7 +172,7 @@ TOIL
 MELOH
 
 	Droppa	
-        Play with me
+    Play with me
 	
 
 Lobonabeat!
