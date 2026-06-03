@@ -96,6 +96,7 @@ Jayci yucca
 	리본
 	심호흡
 	네 옆에 있어
+	100 to 0
  
 
 Skinny brown
@@ -173,6 +174,7 @@ TOIL
 	
 	Summer
     Criminal
+	SUMMER
 
 MELOH
 
