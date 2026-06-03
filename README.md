@@ -174,7 +174,6 @@ TOIL
 	
 	Summer
     Criminal
-	SUMMER
 
 MELOH
 
